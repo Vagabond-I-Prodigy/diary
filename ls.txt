@@ -1,3 +1,6 @@
 2015-05-05.txt
 ls.txt
 README.md
+2015-05-05.txt
+ls.txt
+README.md
